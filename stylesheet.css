@@ -1,0 +1,14 @@
+#backg {
+	text-align: center;
+}
+
+#suggestions {
+	margin: 0 auto;
+	border: 1px solid grey;
+	border-radius: 4px;
+	width: 70%;
+}
+
+.image {
+	width: 75%;
+}
